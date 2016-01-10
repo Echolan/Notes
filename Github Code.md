@@ -39,6 +39,7 @@ touch, cp, rm, mv, date, echo...
 
 ##Creating a GitHub Repository
 Two methods of creating a GitHub repository:
+
 1. Start a repository from scratch
 2. "Fork" another user's repository
 
